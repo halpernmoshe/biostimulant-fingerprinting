@@ -1,0 +1,11 @@
+treatment,P-axis,N-axis,ABA-axis,JA-axis,SA-axis,Fe-axis,CK-axis,ET-axis,Auxin-axis,K-axis,note
+PGPR-JA (GMV mixed volatile),11.8,-4.3,-0.5,8.3,3.4,13.0,-2.1,-0.0,1.3,7.9,
+PGPR-SA (Bacillus GB03),13.7,10.6,-6.2,-5.7,-4.1,8.4,7.0,-7.4,-4.7,-14.0,
+PGPR-SA (P. megaterium),5.8,2.3,1.0,-2.0,-3.8,-1.0,0.9,-1.3,-2.9,-10.5,library-size caveat (see Methods)
+Amino acid (glutamate as N),29.5,-17.7,8.2,19.9†,38.2†,24.7†,,2.3,9.2,,†JA/SA/Fe reflect N-starvation stress; compare N-axis and ABA-axis only
+PGPR-JA (SynCom community),5.8,-10.0,-5.2,6.4,-1.8,-3.4,0.8,-1.6,-16.3,0.9,PHR1-dependent; scored from GSE87337 Col-0 low-Pi condition
+TiO2 nanoparticles,-1.5,-5.9,3.5,3.2,3.2,1.7,-1.4,-0.2,4.6,14.6,
+Amino acid (protein hydrolysate),0.1,-2.0,2.2,0.4,0.8,-0.0,1.4,-0.2,2.2,4.7,P-axis shown is CPM-corrected (uncorrected +2.4% was library-size artifact)
+PGPR-SA (pure diacetyl),13.7,11.8,-2.9,-9.8,12.6,3.1,-5.3,4.4,11.6,-12.0,
+Humic substances,-1.4,-1.4,2.6,2.7,0.6,1.4,-0.3,1.3,6.3,7.0,
+PSK peptide (1 µM 5h seedling),-7.8,-3.7,13.7,2.1,-7.1,-8.7,1.4,-2.0,0.6,,tpst mutant background; K-axis not scored; ABA range +10.7–16.8% across 4 conditions

@@ -1,0 +1,8 @@
+biostimulant,dataset_ath,axis,ath_score_pct,per_gene_ath,per_gene_tom,per_gene_ratio,n_ath,n_tom,interpretation,species_comparison
+P. megaterium (PGPR),GSE199501,P_axis,5.85,0.052773,0.06598,1.25,19416,9011,"Most conserved, enhanced in crops (125%)",Arabidopsis → Tomato (P-axis)
+Humic substances,GSE297649,P_axis,-1.37,-0.00992,-0.011292,1.138,24148,9683,Conserved + slightly enhanced in tomato (114%),Arabidopsis → Tomato (P-axis)
+Bacillus GB03 (PGPR),GSE139154,P_axis,13.7,0.094605,0.070046,0.74,25375,9667,Mostly conserved (74%),Arabidopsis → Tomato (P-axis)
+Amino acids,GSE297649,P_axis,2.36,0.01713,0.011866,0.693,24148,9683,Moderately conserved (69% per-gene effect),Arabidopsis → Tomato (P-axis)
+GMV volatile (PGPR mix),GSE138478,P_axis,11.78,0.08139,0.041053,0.504,25375,9667,Partially conserved in crops (50%),Arabidopsis → Tomato (P-axis)
+SynCom (PGPR community),GSE87337,P_axis,5.83,0.043388,0.005271,0.121,23551,9664,Largely Arabidopsis-specific (12%),Arabidopsis → Tomato (P-axis)
+Pure diacetyl (PGPR),GSE138478,P_axis,13.72,0.094739,-0.025807,-0.272,25375,9667,SIGN REVERSAL — opposite direction in tomato,Arabidopsis → Tomato (P-axis)

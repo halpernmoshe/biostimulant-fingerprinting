@@ -1,0 +1,7 @@
+comparison,pearson_r,n_axes,interpretation
+AA (hydrolysate vs glutamate),0.538,3,"Directionally coherent (N down, ABA up)"
+PGPR-JA (GMV vs SynCom),0.998,3,JA-ISR: near-identical
+PGPR-SA (diacetyl vs GB03),0.999,3,SA-ISR: near-identical
+PGPR-SA (diacetyl vs P.meg),0.775,3,SA-ISR: coherent
+PGPR cross-group (GMV vs diacetyl),0.011,9,Between subgroups: completely incoherent
+Mean within-PGPR,0.682,3,Misleadingly intermediate
