@@ -99,17 +99,17 @@ Library-size normalization was applied prior to scoring because differences in t
 
 The axis score for sample *i* on axis *j* was computed as:
 
-$$S_{ij} = \sum_{g} \log_2(\mathrm{CPM}_{g,i} + 1) \times \mathrm{logFC}_{g,j}$$
+$$S(i,j) = \sum_{g} log\u2082(CPM_{g,i} + 1) \u00d7 logFC_{g,j}$$
 
 where the sum runs over all genes *g* present in both the sample and the axis signature.
 
 The treatment effect (Δ) for a given biostimulant was computed as the mean score of treated replicates minus the mean score of control replicates:
 
-$$\Delta_j = \bar{S}_{j,\mathrm{treated}} - \bar{S}_{j,\mathrm{control}}$$
+$$\u0394_j = \u0305S_{j,treated} \u2212 \u0305S_{j,control}$$
 
 This difference was expressed as a percentage of the axis calibration range:
 
-$$\Delta\%_j = \frac{\Delta_j}{\mathrm{calibration\_range}_j} \times 100\%$$
+$$\u0394%_j = (\u0394_j \u00f7 calibration\u2013range_j) \u00d7 100%$$
 
 The resulting vector of Δ% values across all axes constitutes the transcriptomic fingerprint of that biostimulant treatment.
 
