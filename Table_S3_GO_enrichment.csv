@@ -1,0 +1,460 @@
+Axis,Direction,Gene_query_size,Source,Term_ID,Term_name,Intersection_size,Term_size,Precision,Recall,Adjusted_p_value,Significant
+P_axis,up,200,GO:BP,GO:0006950,response to stress,62,3733,0.4526,0.0166,7.3194882445887e-12,True
+P_axis,up,200,GO:BP,GO:0036294,cellular response to decreased oxygen levels,13,241,0.0949,0.0539,4.897041300400312e-07,True
+P_axis,up,200,GO:BP,GO:0071456,cellular response to hypoxia,13,239,0.0949,0.0544,4.897041300400312e-07,True
+P_axis,up,200,GO:BP,GO:0071453,cellular response to oxygen levels,13,241,0.0949,0.0539,4.897041300400312e-07,True
+P_axis,up,200,GO:BP,GO:0050896,response to stimulus,70,6001,0.5109,0.0117,4.897041300400312e-07,True
+P_axis,up,200,GO:BP,GO:0070482,response to oxygen levels,13,271,0.0949,0.048,1.245721296461877e-06,True
+P_axis,up,200,GO:BP,GO:0036293,response to decreased oxygen levels,13,270,0.0949,0.0481,1.245721296461877e-06,True
+P_axis,up,200,GO:BP,GO:0001666,response to hypoxia,13,266,0.0949,0.0489,1.245721296461877e-06,True
+P_axis,up,200,GO:BP,GO:0006817,phosphate ion transport,6,37,0.0438,0.1622,7.258342040414009e-06,True
+P_axis,up,200,GO:BP,GO:0006952,defense response,27,1636,0.1971,0.0165,0.00017277742357904276,True
+P_axis,up,200,GO:BP,GO:0042221,response to chemical,38,2940,0.2774,0.0129,0.00038973648682082157,True
+P_axis,up,200,GO:BP,GO:0043207,response to external biotic stimulus,24,1461,0.1752,0.0164,0.0005238431859877495,True
+P_axis,up,200,GO:BP,GO:0051707,response to other organism,24,1461,0.1752,0.0164,0.0005238431859877495,True
+P_axis,up,200,GO:BP,GO:0015698,inorganic anion transport,7,120,0.0511,0.0583,0.0005238431859877495,True
+P_axis,up,200,GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,24,1477,0.1752,0.0162,0.0005854220052721187,True
+P_axis,up,200,GO:BP,GO:0009607,response to biotic stimulus,24,1488,0.1752,0.0161,0.0006201434350728412,True
+P_axis,up,200,GO:BP,GO:0016036,cellular response to phosphate starvation,5,72,0.0365,0.0694,0.0032180643305391708,True
+P_axis,up,200,GO:BP,GO:0009605,response to external stimulus,24,1684,0.1752,0.0143,0.003408034213857979,True
+P_axis,up,200,GO:BP,GO:0140255,regulation of cellular response to phosphate starvation,2,3,0.0146,0.6667,0.003408034213857979,True
+P_axis,up,200,GO:BP,GO:1901684,arsenate ion transmembrane transport,2,3,0.0146,0.6667,0.003408034213857979,True
+P_axis,up,200,GO:BP,GO:0080040,positive regulation of cellular response to phosphate starvation,2,3,0.0146,0.6667,0.003408034213857979,True
+P_axis,up,200,KEGG,KEGG:01100,Metabolic pathways,26,2337,0.7647,0.0111,0.004599774347050086,True
+P_axis,up,200,GO:BP,GO:0032109,positive regulation of response to nutrient levels,2,4,0.0146,0.5,0.006479550036214116,True
+P_axis,up,200,GO:BP,GO:0055085,transmembrane transport,19,1239,0.1387,0.0153,0.006825036388892241,True
+P_axis,up,200,GO:BP,GO:0070887,cellular response to chemical stimulus,23,1669,0.1679,0.0138,0.006825036388892241,True
+P_axis,up,200,GO:BP,GO:0006979,response to oxidative stress,10,426,0.073,0.0235,0.008732620741711003,True
+P_axis,up,200,GO:BP,GO:0015760,glucose-6-phosphate transport,2,5,0.0146,0.4,0.008763299783195318,True
+P_axis,up,200,GO:BP,GO:0015712,hexose phosphate transport,2,5,0.0146,0.4,0.008763299783195318,True
+P_axis,up,200,GO:BP,GO:0098542,defense response to other organism,17,1154,0.1241,0.0147,0.019316005395297025,True
+P_axis,up,200,GO:BP,GO:0009620,response to fungus,12,664,0.0876,0.0181,0.02037327513169652,True
+P_axis,up,200,GO:BP,GO:0042594,response to starvation,6,182,0.0438,0.033,0.02077754596947918,True
+P_axis,up,200,GO:BP,GO:0015700,arsenite transport,2,8,0.0146,0.25,0.02110952282947548,True
+P_axis,up,200,KEGG,KEGG:00940,Phenylpropanoid biosynthesis,5,128,0.1471,0.0391,0.022890053877195504,True
+P_axis,up,200,GO:BP,GO:0033554,cellular response to stress,16,1085,0.1168,0.0147,0.023558079924842098,True
+P_axis,up,200,GO:BP,GO:0009808,lignin metabolic process,4,75,0.0292,0.0533,0.023558079924842098,True
+P_axis,up,200,GO:BP,GO:0009628,response to abiotic stimulus,25,2131,0.1825,0.0117,0.027169857691317197,True
+P_axis,up,200,GO:BP,GO:0009267,cellular response to starvation,5,143,0.0365,0.035,0.036442064611159126,True
+P_axis,up,200,KEGG,KEGG:00750,Vitamin B6 metabolism,2,15,0.0588,0.1333,0.03781868016866628,True
+P_axis,up,200,KEGG,KEGG:01110,Biosynthesis of secondary metabolites,16,1283,0.4706,0.0125,0.03781868016866628,True
+P_axis,up,200,GO:BP,GO:0042744,hydrogen peroxide catabolic process,4,92,0.0292,0.0435,0.045755185477245684,True
+P_axis,down,200,GO:BP,GO:0043270,positive regulation of monoatomic ion transport,3,9,0.0234,0.3333,0.009245273273531914,True
+P_axis,down,200,GO:BP,GO:0034219,carbohydrate transmembrane transport,5,66,0.0391,0.0758,0.012239043121770835,True
+P_axis,down,200,GO:BP,GO:0034758,positive regulation of iron ion transport,2,3,0.0156,0.6667,0.018081521982495977,True
+P_axis,down,200,GO:BP,GO:0051050,positive regulation of transport,3,17,0.0234,0.1765,0.018081521982495977,True
+P_axis,down,200,GO:BP,GO:0043269,regulation of monoatomic ion transport,4,51,0.0312,0.0784,0.02602418581472863,True
+N_axis,up,200,GO:BP,GO:0010167,response to nitrate,9,28,0.0608,0.3214,9.751036825601623e-11,True
+N_axis,up,200,GO:BP,GO:1901698,response to nitrogen compound,11,119,0.0743,0.0924,1.7813241263647933e-07,True
+N_axis,up,200,GO:BP,GO:0042221,response to chemical,47,2940,0.3176,0.016,1.452800776238194e-06,True
+N_axis,up,200,KEGG,KEGG:00910,Nitrogen metabolism,6,43,0.15,0.1395,2.361224391008198e-05,True
+N_axis,up,200,GO:BP,GO:0097164,ammonium ion metabolic process,6,47,0.0405,0.1277,7.581161526693314e-05,True
+N_axis,up,200,GO:BP,GO:0036294,cellular response to decreased oxygen levels,11,241,0.0743,0.0456,7.581161526693314e-05,True
+N_axis,up,200,GO:BP,GO:0071456,cellular response to hypoxia,11,239,0.0743,0.046,7.581161526693314e-05,True
+N_axis,up,200,GO:BP,GO:0071453,cellular response to oxygen levels,11,241,0.0743,0.0456,7.581161526693314e-05,True
+N_axis,up,200,GO:BP,GO:0036293,response to decreased oxygen levels,11,270,0.0743,0.0407,0.00013886294069866503,True
+N_axis,up,200,GO:BP,GO:2001141,regulation of RNA biosynthetic process,34,2161,0.2297,0.0157,0.00013886294069866503,True
+N_axis,up,200,GO:BP,GO:0070482,response to oxygen levels,11,271,0.0743,0.0406,0.00013886294069866503,True
+N_axis,up,200,GO:BP,GO:0001666,response to hypoxia,11,266,0.0743,0.0414,0.00013886294069866503,True
+N_axis,up,200,GO:BP,GO:0006355,regulation of DNA-templated transcription,34,2161,0.2297,0.0157,0.00013886294069866503,True
+N_axis,up,200,GO:BP,GO:0051252,regulation of RNA metabolic process,34,2232,0.2297,0.0152,0.00023068513119637256,True
+N_axis,up,200,GO:BP,GO:0042126,nitrate metabolic process,5,40,0.0338,0.125,0.0003286367410320899,True
+N_axis,up,200,GO:BP,GO:0042128,nitrate assimilation,5,40,0.0338,0.125,0.0003286367410320899,True
+N_axis,up,200,GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,34,2305,0.2297,0.0148,0.0003766760225254851,True
+N_axis,up,200,GO:BP,GO:0006351,DNA-templated transcription,34,2345,0.2297,0.0145,0.0005118003945059581,True
+N_axis,up,200,GO:BP,GO:0071941,nitrogen cycle metabolic process,5,46,0.0338,0.1087,0.0005522338392493092,True
+N_axis,up,200,GO:BP,GO:2001057,reactive nitrogen species metabolic process,5,48,0.0338,0.1042,0.0006464757549138317,True
+N_axis,up,200,GO:BP,GO:0000122,negative regulation of transcription by RNA polymerase II,4,25,0.027,0.16,0.000781376853639956,True
+N_axis,up,200,GO:BP,GO:0010468,regulation of gene expression,36,2713,0.2432,0.0133,0.0014824506364992521,True
+N_axis,up,200,GO:BP,GO:0006357,regulation of transcription by RNA polymerase II,10,308,0.0676,0.0325,0.0015020477899908204,True
+N_axis,up,200,GO:BP,GO:0010556,regulation of macromolecule biosynthetic process,36,2745,0.2432,0.0131,0.0016871558557780984,True
+N_axis,up,200,GO:BP,GO:0009889,regulation of biosynthetic process,37,2859,0.25,0.0129,0.0016871558557780984,True
+N_axis,up,200,GO:BP,GO:0070981,L-asparagine biosynthetic process,2,3,0.0135,0.6667,0.003464581435951682,True
+N_axis,up,200,GO:BP,GO:0070982,L-asparagine metabolic process,2,3,0.0135,0.6667,0.003464581435951682,True
+N_axis,up,200,GO:BP,GO:0034758,positive regulation of iron ion transport,2,3,0.0135,0.6667,0.003464581435951682,True
+N_axis,up,200,GO:BP,GO:0080090,regulation of primary metabolic process,34,2644,0.2297,0.0129,0.003558660094575693,True
+N_axis,up,200,GO:BP,GO:0006366,transcription by RNA polymerase II,10,355,0.0676,0.0282,0.0036763287457419447,True
+N_axis,up,200,GO:BP,GO:0060255,regulation of macromolecule metabolic process,36,2903,0.2432,0.0124,0.00417798404419485,True
+N_axis,up,200,GO:BP,GO:0006528,asparagine metabolic process,2,4,0.0135,0.5,0.005820537656934901,True
+N_axis,up,200,GO:BP,GO:0006529,asparagine biosynthetic process,2,4,0.0135,0.5,0.005820537656934901,True
+N_axis,up,200,GO:BP,GO:0009735,response to cytokinin,6,132,0.0405,0.0455,0.005836834325905768,True
+N_axis,up,200,GO:BP,GO:0050896,response to stimulus,60,6001,0.4054,0.01,0.007075369237609009,True
+N_axis,up,200,GO:BP,GO:0006541,glutamine metabolic process,4,52,0.027,0.0769,0.008119156734508382,True
+N_axis,up,200,GO:BP,GO:0140115,export across plasma membrane,5,93,0.0338,0.0538,0.008119156734508382,True
+N_axis,up,200,GO:BP,GO:0019222,regulation of metabolic process,37,3164,0.25,0.0117,0.008680892541873222,True
+N_axis,up,200,GO:BP,GO:0009719,response to endogenous stimulus,23,1636,0.1554,0.0141,0.01101598976787208,True
+N_axis,up,200,GO:BP,GO:0009725,response to hormone,23,1635,0.1554,0.0141,0.01101598976787208,True
+N_axis,up,200,GO:BP,GO:0015706,nitrate transmembrane transport,3,26,0.0203,0.1154,0.012097075636085924,True
+N_axis,up,200,GO:BP,GO:1902679,negative regulation of RNA biosynthetic process,7,224,0.0473,0.0312,0.01346706273939185,True
+N_axis,up,200,GO:BP,GO:0045892,negative regulation of DNA-templated transcription,7,224,0.0473,0.0312,0.01346706273939185,True
+N_axis,up,200,GO:BP,GO:0070887,cellular response to chemical stimulus,23,1669,0.1554,0.0138,0.01346706273939185,True
+N_axis,up,200,GO:BP,GO:0009733,response to auxin,10,448,0.0676,0.0223,0.01500084110561639,True
+N_axis,up,200,GO:BP,GO:0031667,response to nutrient levels,7,230,0.0473,0.0304,0.01501277764530695,True
+N_axis,up,200,GO:BP,GO:0051253,negative regulation of RNA metabolic process,7,233,0.0473,0.03,0.01583362936650239,True
+N_axis,up,200,GO:BP,GO:0009051,"pentose-phosphate shunt, oxidative branch",2,8,0.0135,0.25,0.017789468565293266,True
+N_axis,up,200,GO:BP,GO:0034756,regulation of iron ion transport,2,8,0.0135,0.25,0.017789468565293266,True
+N_axis,up,200,GO:BP,GO:0098661,inorganic anion transmembrane transport,4,71,0.027,0.0563,0.019262433459269455,True
+N_axis,up,200,GO:BP,GO:0042594,response to starvation,6,182,0.0405,0.033,0.020762729662922086,True
+N_axis,up,200,GO:BP,GO:0043270,positive regulation of monoatomic ion transport,2,9,0.0135,0.2222,0.02143147872465438,True
+N_axis,up,200,GO:BP,GO:0045934,negative regulation of nucleobase-containing compound metabolic process,7,253,0.0473,0.0277,0.022466398986157526,True
+N_axis,up,200,KEGG,KEGG:04075,Plant hormone signal transduction,8,291,0.2,0.0275,0.023467755046810396,True
+N_axis,up,200,GO:BP,GO:0030150,protein import into mitochondrial matrix,2,10,0.0135,0.2,0.02566439965226845,True
+N_axis,up,200,GO:BP,GO:1902025,nitrate import,3,39,0.0203,0.0769,0.0292104333032935,True
+N_axis,up,200,GO:BP,GO:0045944,positive regulation of transcription by RNA polymerase II,5,136,0.0338,0.0368,0.0292104333032935,True
+N_axis,up,200,GO:BP,GO:0032774,RNA biosynthetic process,36,3395,0.2432,0.0106,0.03964040282966194,True
+N_axis,up,200,GO:BP,GO:0009736,cytokinin-activated signaling pathway,4,90,0.027,0.0444,0.03964040282966194,True
+N_axis,up,200,GO:BP,GO:0140352,export from cell,5,151,0.0338,0.0331,0.04289475030371763,True
+N_axis,up,200,GO:BP,GO:0170036,import into the mitochondrion,2,14,0.0135,0.1429,0.04289475030371763,True
+N_axis,up,200,GO:BP,GO:0071368,cellular response to cytokinin stimulus,4,94,0.027,0.0426,0.04289475030371763,True
+N_axis,up,200,GO:BP,GO:1901700,response to oxygen-containing compound,21,1659,0.1419,0.0127,0.04289475030371763,True
+N_axis,up,200,GO:BP,GO:1990641,response to iron ion starvation,2,14,0.0135,0.1429,0.04289475030371763,True
+N_axis,up,200,GO:BP,GO:0008652,amino acid biosynthetic process,6,220,0.0405,0.0273,0.04289475030371763,True
+N_axis,up,200,GO:BP,GO:0009064,glutamine family amino acid metabolic process,4,98,0.027,0.0408,0.04766301812204587,True
+N_axis,up,200,GO:BP,GO:0141187,nucleic acid biosynthetic process,36,3470,0.2432,0.0104,0.04851055612623636,True
+N_axis,up,200,GO:BP,GO:1990961,xenobiotic detoxification by transmembrane export across the plasma membrane,3,50,0.0203,0.06,0.04851055612623636,True
+N_axis,up,200,GO:BP,GO:0046618,xenobiotic export from cell,3,50,0.0203,0.06,0.04851055612623636,True
+N_axis,down,200,KEGG,KEGG:01110,Biosynthesis of secondary metabolites,15,1283,0.5172,0.0117,0.046259134134223924,True
+JA_axis,up,200,GO:BP,GO:0009753,response to jasmonic acid,21,231,0.1409,0.0909,3.1316858888188403e-15,True
+JA_axis,up,200,GO:BP,GO:0070542,response to fatty acid,21,235,0.1409,0.0894,3.1316858888188403e-15,True
+JA_axis,up,200,GO:BP,GO:0042221,response to chemical,49,2940,0.3289,0.0167,1.66712969216739e-07,True
+JA_axis,up,200,GO:BP,GO:2000022,regulation of jasmonic acid mediated signaling pathway,7,39,0.047,0.1795,1.1619485898020729e-06,True
+JA_axis,up,200,GO:BP,GO:0071395,cellular response to jasmonic acid stimulus,10,122,0.0671,0.082,1.392187914714707e-06,True
+JA_axis,up,200,GO:BP,GO:0071398,cellular response to fatty acid,10,126,0.0671,0.0794,1.5847097757122751e-06,True
+JA_axis,up,200,GO:BP,GO:0050896,response to stimulus,72,6001,0.4832,0.012,3.4574912388989507e-06,True
+JA_axis,up,200,GO:BP,GO:1901700,response to oxygen-containing compound,32,1659,0.2148,0.0193,4.6490552162543e-06,True
+JA_axis,up,200,GO:BP,GO:0009867,jasmonic acid mediated signaling pathway,9,117,0.0604,0.0769,6.1745866032626225e-06,True
+JA_axis,up,200,GO:BP,GO:0009611,response to wounding,12,243,0.0805,0.0494,6.1745866032626225e-06,True
+JA_axis,up,200,GO:BP,GO:0033993,response to lipid,24,1022,0.1611,0.0235,6.1745866032626225e-06,True
+JA_axis,up,200,GO:BP,GO:0006722,triterpenoid metabolic process,5,20,0.0336,0.25,1.0062419417534211e-05,True
+JA_axis,up,200,GO:BP,GO:0006950,response to stress,51,3733,0.3423,0.0137,1.2647794729548701e-05,True
+JA_axis,up,200,GO:BP,GO:0009719,response to endogenous stimulus,30,1636,0.2013,0.0183,2.0651978484742093e-05,True
+JA_axis,up,200,GO:BP,GO:0009725,response to hormone,30,1635,0.2013,0.0183,2.0651978484742093e-05,True
+JA_axis,up,200,GO:BP,GO:0010683,tricyclic triterpenoid metabolic process,3,4,0.0201,0.75,4.774806852897612e-05,True
+JA_axis,up,200,GO:BP,GO:0006721,terpenoid metabolic process,9,188,0.0604,0.0479,0.00021110458317376076,True
+JA_axis,up,200,GO:BP,GO:0006952,defense response,27,1636,0.1812,0.0165,0.0004951379584963284,True
+JA_axis,up,200,GO:BP,GO:0070887,cellular response to chemical stimulus,27,1669,0.1812,0.0162,0.0006358343480269334,True
+JA_axis,up,200,GO:BP,GO:0006720,isoprenoid metabolic process,9,220,0.0604,0.0409,0.0006358343480269334,True
+JA_axis,up,200,GO:BP,GO:0080027,response to herbivore,4,25,0.0268,0.16,0.0006890246800732192,True
+JA_axis,up,200,GO:BP,GO:0010263,tricyclic triterpenoid biosynthetic process,2,2,0.0134,1.0,0.0013012193030279774,True
+JA_axis,up,200,GO:BP,GO:0016114,terpenoid biosynthetic process,7,160,0.047,0.0437,0.0030899256715338705,True
+JA_axis,up,200,GO:BP,GO:0051707,response to other organism,23,1461,0.1544,0.0157,0.0031665396987886085,True
+JA_axis,up,200,GO:BP,GO:0043207,response to external biotic stimulus,23,1461,0.1544,0.0157,0.0031665396987886085,True
+JA_axis,up,200,GO:BP,GO:0080003,thalianol metabolic process,2,3,0.0134,0.6667,0.0031665396987886085,True
+JA_axis,up,200,GO:BP,GO:0015918,sterol transport,3,15,0.0201,0.2,0.0031665396987886085,True
+JA_axis,up,200,GO:BP,GO:0016104,triterpenoid biosynthetic process,3,16,0.0201,0.1875,0.003473442105391249,True
+JA_axis,up,200,GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,23,1477,0.1544,0.0156,0.003473442105391249,True
+JA_axis,up,200,GO:BP,GO:0009607,response to biotic stimulus,23,1488,0.1544,0.0155,0.003719167406183085,True
+JA_axis,up,200,GO:BP,GO:0008299,isoprenoid biosynthetic process,7,186,0.047,0.0376,0.005789985498493606,True
+JA_axis,up,200,GO:BP,GO:0009966,regulation of signal transduction,9,326,0.0604,0.0276,0.007834577263221214,True
+JA_axis,up,200,GO:BP,GO:0009605,response to external stimulus,24,1684,0.1611,0.0143,0.007945825912705828,True
+JA_axis,up,200,GO:BP,GO:0010646,regulation of cell communication,9,332,0.0604,0.0271,0.007945825912705828,True
+JA_axis,up,200,GO:BP,GO:0023051,regulation of signaling,9,332,0.0604,0.0271,0.007945825912705828,True
+JA_axis,up,200,GO:BP,GO:1900366,negative regulation of defense response to insect,2,5,0.0134,0.4,0.007945825912705828,True
+JA_axis,up,200,GO:BP,GO:0031347,regulation of defense response,8,285,0.0537,0.0281,0.012778132575303412,True
+JA_axis,up,200,GO:BP,GO:0015850,organic hydroxy compound transport,3,30,0.0201,0.1,0.017924467117476812,True
+JA_axis,up,200,GO:BP,GO:0016102,diterpenoid biosynthetic process,4,67,0.0268,0.0597,0.018021312660436852,True
+JA_axis,up,200,GO:BP,GO:0016101,diterpenoid metabolic process,4,70,0.0268,0.0571,0.020691055753042878,True
+JA_axis,up,200,GO:BP,GO:0032366,intracellular sterol transport,2,9,0.0134,0.2222,0.02436090003620735,True
+JA_axis,up,200,GO:BP,GO:0009751,response to salicylic acid,6,185,0.0403,0.0324,0.024909646325368823,True
+JA_axis,up,200,GO:BP,GO:0002213,defense response to insect,3,35,0.0201,0.0857,0.024909646325368823,True
+JA_axis,up,200,GO:BP,GO:1901701,cellular response to oxygen-containing compound,13,772,0.0872,0.0168,0.033881208683160906,True
+JA_axis,up,200,GO:BP,GO:0071396,cellular response to lipid,11,605,0.0738,0.0182,0.039969051840181534,True
+JA_axis,up,200,GO:BP,GO:0000304,response to singlet oxygen,2,13,0.0134,0.1538,0.04428740417724141,True
+JA_axis,up,200,GO:BP,GO:0006629,lipid metabolic process,16,1097,0.1074,0.0146,0.04428740417724141,True
+JA_axis,up,200,GO:BP,GO:2000068,regulation of defense response to insect,2,13,0.0134,0.1538,0.04428740417724141,True
+JA_axis,down,200,GO:BP,GO:0098754,detoxification,11,275,0.0759,0.04,0.0015845117700969329,True
+JA_axis,down,200,GO:BP,GO:0009636,response to toxic substance,11,316,0.0759,0.0348,0.002980579277816928,True
+JA_axis,down,200,KEGG,KEGG:00940,Phenylpropanoid biosynthesis,6,128,0.1622,0.0469,0.00732166215175683,True
+JA_axis,down,200,GO:BP,GO:0042744,hydrogen peroxide catabolic process,6,92,0.0414,0.0652,0.00784030386951149,True
+JA_axis,down,200,GO:BP,GO:0042743,hydrogen peroxide metabolic process,6,113,0.0414,0.0531,0.014878537142004943,True
+JA_axis,down,200,GO:BP,GO:0098869,cellular oxidant detoxification,7,161,0.0483,0.0435,0.014878537142004943,True
+JA_axis,down,200,GO:BP,GO:0097237,cellular response to toxic substance,7,173,0.0483,0.0405,0.015570213794034263,True
+JA_axis,down,200,GO:BP,GO:1990748,cellular detoxification,7,172,0.0483,0.0407,0.015570213794034263,True
+JA_axis,down,200,GO:BP,GO:0042221,response to chemical,35,2940,0.2414,0.0119,0.028789645427090244,True
+SA_axis,up,200,GO:BP,GO:0051707,response to other organism,39,1461,0.2516,0.0267,6.157963691646324e-11,True
+SA_axis,up,200,GO:BP,GO:0043207,response to external biotic stimulus,39,1461,0.2516,0.0267,6.157963691646324e-11,True
+SA_axis,up,200,GO:BP,GO:0006952,defense response,42,1636,0.271,0.0257,6.157963691646324e-11,True
+SA_axis,up,200,GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,39,1477,0.2516,0.0264,6.50425269504752e-11,True
+SA_axis,up,200,GO:BP,GO:0009607,response to biotic stimulus,39,1488,0.2516,0.0262,6.566244486358582e-11,True
+SA_axis,up,200,GO:BP,GO:0006950,response to stress,64,3733,0.4129,0.0171,8.605808038548858e-11,True
+SA_axis,up,200,GO:BP,GO:0050896,response to stimulus,84,6001,0.5419,0.014,1.37135924819491e-10,True
+SA_axis,up,200,GO:BP,GO:0098542,defense response to other organism,33,1154,0.2129,0.0286,3.2371333634984433e-10,True
+SA_axis,up,200,GO:BP,GO:0009751,response to salicylic acid,15,185,0.0968,0.0811,3.2371333634984433e-10,True
+SA_axis,up,200,GO:BP,GO:0009605,response to external stimulus,39,1684,0.2516,0.0232,1.470091171475335e-09,True
+SA_axis,up,200,GO:BP,GO:1901700,response to oxygen-containing compound,38,1659,0.2452,0.0229,3.562877538441399e-09,True
+SA_axis,up,200,GO:BP,GO:0009617,response to bacterium,19,463,0.1226,0.041,4.164312589029602e-08,True
+SA_axis,up,200,GO:BP,GO:0042221,response to chemical,50,2940,0.3226,0.017,5.640607615302233e-08,True
+SA_axis,up,200,GO:BP,GO:0009627,systemic acquired resistance,9,90,0.0581,0.1,6.909440230083829e-07,True
+SA_axis,up,200,GO:BP,GO:0042742,defense response to bacterium,15,363,0.0968,0.0413,2.053632725099254e-06,True
+SA_axis,up,200,GO:BP,GO:0140546,defense response to symbiont,13,325,0.0839,0.04,2.2699506422976732e-05,True
+SA_axis,up,200,GO:BP,GO:0071446,cellular response to salicylic acid stimulus,6,74,0.0387,0.0811,0.0005306988355043075,True
+SA_axis,up,200,GO:BP,GO:0002239,response to oomycetes,6,82,0.0387,0.0732,0.0009043949480695814,True
+SA_axis,up,200,GO:BP,GO:0009753,response to jasmonic acid,9,231,0.0581,0.039,0.0013652853676290409,True
+SA_axis,up,200,GO:BP,GO:0070542,response to fatty acid,9,235,0.0581,0.0383,0.001482000046654951,True
+SA_axis,up,200,GO:BP,GO:0009863,salicylic acid mediated signaling pathway,5,67,0.0323,0.0746,0.0034169467850228502,True
+SA_axis,up,200,GO:BP,GO:0062211,root regeneration,2,3,0.0129,0.6667,0.0043069231352243845,True
+SA_axis,up,200,GO:BP,GO:0010150,leaf senescence,7,164,0.0452,0.0427,0.00471207287423267,True
+SA_axis,up,200,GO:BP,GO:0090693,plant organ senescence,7,171,0.0452,0.0409,0.0058384819082362045,True
+SA_axis,up,200,KEGG,KEGG:04626,Plant-pathogen interaction,7,204,0.2188,0.0343,0.006188266041381133,True
+SA_axis,up,200,GO:BP,GO:0009620,response to fungus,14,664,0.0903,0.0211,0.006591866058602217,True
+SA_axis,up,200,GO:BP,GO:0006468,protein phosphorylation,19,1096,0.1226,0.0173,0.006591866058602217,True
+SA_axis,up,200,GO:BP,GO:0070887,cellular response to chemical stimulus,25,1669,0.1613,0.015,0.006591866058602217,True
+SA_axis,up,200,GO:BP,GO:0046244,salicylic acid catabolic process,2,4,0.0129,0.5,0.006736550170282217,True
+SA_axis,up,200,GO:BP,GO:1901701,cellular response to oxygen-containing compound,15,772,0.0968,0.0194,0.008605472104687213,True
+SA_axis,up,200,GO:BP,GO:0000302,response to reactive oxygen species,6,140,0.0387,0.0429,0.010392677110852502,True
+SA_axis,up,200,GO:BP,GO:0002229,defense response to oomycetes,4,58,0.0258,0.069,0.015617771487527335,True
+SA_axis,up,200,GO:BP,GO:0051716,cellular response to stimulus,35,2897,0.2258,0.0121,0.018011758685381695,True
+SA_axis,up,200,GO:BP,GO:0033993,response to lipid,17,1022,0.1097,0.0166,0.018011758685381695,True
+SA_axis,up,200,GO:BP,GO:0031347,regulation of defense response,8,285,0.0516,0.0281,0.018408666994559904,True
+SA_axis,up,200,GO:BP,GO:0019336,phenol-containing compound catabolic process,2,7,0.0129,0.2857,0.018600715102671295,True
+SA_axis,up,200,GO:BP,GO:2001141,regulation of RNA biosynthetic process,28,2161,0.1806,0.013,0.02030952799640688,True
+SA_axis,up,200,GO:BP,GO:0006355,regulation of DNA-templated transcription,28,2161,0.1806,0.013,0.02030952799640688,True
+SA_axis,up,200,GO:BP,GO:0001101,response to acid chemical,10,464,0.0645,0.0216,0.029508536149981994,True
+SA_axis,up,200,GO:BP,GO:0051252,regulation of RNA metabolic process,28,2232,0.1806,0.0125,0.031218716213020584,True
+SA_axis,up,200,GO:BP,GO:0009835,fruit ripening,2,10,0.0129,0.2,0.03439339696201073,True
+SA_axis,up,200,GO:BP,GO:0080134,regulation of response to stress,9,412,0.0581,0.0218,0.04217036017124186,True
+SA_axis,up,200,GO:BP,GO:0016310,phosphorylation,20,1440,0.129,0.0139,0.04416793155801814,True
+SA_axis,up,200,GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,28,2305,0.1806,0.0121,0.0451018050038315,True
+SA_axis,up,200,GO:BP,GO:0009414,response to water deprivation,9,424,0.0581,0.0212,0.04750695699890839,True
+SA_axis,up,200,GO:BP,GO:0006979,response to oxidative stress,9,426,0.0581,0.0211,0.04790937821185146,True
+SA_axis,down,200,GO:BP,GO:0009718,anthocyanin-containing compound biosynthetic process,5,33,0.035,0.1515,0.001370524549619332,True
+SA_axis,down,200,GO:BP,GO:0046283,anthocyanin-containing compound metabolic process,5,53,0.035,0.0943,0.007461670729100154,True
+SA_axis,down,200,GO:BP,GO:0009664,plant-type cell wall organization,7,160,0.049,0.0437,0.017844059203826087,True
+SA_axis,down,200,GO:BP,GO:0009813,flavonoid biosynthetic process,5,75,0.035,0.0667,0.020002514295406774,True
+SA_axis,down,200,GO:BP,GO:0009812,flavonoid metabolic process,5,95,0.035,0.0526,0.04840346229522813,True
+ABA_axis,up,200,GO:BP,GO:0009737,response to abscisic acid,32,604,0.2192,0.053,2.2365533833355136e-17,True
+ABA_axis,up,200,GO:BP,GO:0097305,response to alcohol,32,613,0.2192,0.0522,2.2365533833355136e-17,True
+ABA_axis,up,200,GO:BP,GO:0009414,response to water deprivation,27,424,0.1849,0.0637,1.0659824963185845e-16,True
+ABA_axis,up,200,GO:BP,GO:0009415,response to water,27,436,0.1849,0.0619,1.6315362604798733e-16,True
+ABA_axis,up,200,GO:BP,GO:0001101,response to acid chemical,27,464,0.1849,0.0582,6.347525173260996e-16,True
+ABA_axis,up,200,GO:BP,GO:1901700,response to oxygen-containing compound,46,1659,0.3151,0.0277,1.8287259575561432e-15,True
+ABA_axis,up,200,GO:BP,GO:0033993,response to lipid,35,1022,0.2397,0.0342,5.178646560208022e-14,True
+ABA_axis,up,200,GO:BP,GO:2000143,negative regulation of DNA-templated transcription initiation,6,6,0.0411,1.0,5.62202046059738e-12,True
+ABA_axis,up,200,GO:BP,GO:0042221,response to chemical,52,2940,0.3562,0.0177,5.324161517744117e-10,True
+ABA_axis,up,200,GO:BP,GO:0009725,response to hormone,36,1635,0.2466,0.022,5.7639227689568916e-09,True
+ABA_axis,up,200,GO:BP,GO:0009719,response to endogenous stimulus,36,1636,0.2466,0.022,5.7639227689568916e-09,True
+ABA_axis,up,200,GO:BP,GO:2000142,regulation of DNA-templated transcription initiation,6,17,0.0411,0.3529,4.3668224599745195e-08,True
+ABA_axis,up,200,GO:BP,GO:0090693,plant organ senescence,12,171,0.0822,0.0702,7.53402716135887e-08,True
+ABA_axis,up,200,GO:BP,GO:0006970,response to osmotic stress,19,537,0.1301,0.0354,1.2483185680775566e-07,True
+ABA_axis,up,200,GO:BP,GO:0009628,response to abiotic stimulus,39,2131,0.2671,0.0183,1.2483185680775566e-07,True
+ABA_axis,up,200,GO:BP,GO:0009409,response to cold,16,410,0.1096,0.039,5.659078787104766e-07,True
+ABA_axis,up,200,GO:BP,GO:0050896,response to stimulus,71,6001,0.4863,0.0118,1.047309851928644e-06,True
+ABA_axis,up,200,GO:BP,GO:0019915,lipid storage,5,15,0.0342,0.3333,1.047309851928644e-06,True
+ABA_axis,up,200,GO:BP,GO:0170062,nutrient storage,5,15,0.0342,0.3333,1.047309851928644e-06,True
+ABA_axis,up,200,GO:BP,GO:0010150,leaf senescence,10,164,0.0685,0.061,4.400575769404301e-06,True
+ABA_axis,up,200,GO:BP,GO:0007275,multicellular organism development,40,2715,0.274,0.0147,2.048180328270105e-05,True
+ABA_axis,up,200,GO:BP,GO:0006950,response to stress,49,3733,0.3356,0.0131,2.2610306421048012e-05,True
+ABA_axis,up,200,GO:BP,GO:0009266,response to temperature stimulus,17,644,0.1164,0.0264,3.576232497874155e-05,True
+ABA_axis,up,200,GO:BP,GO:0010431,seed maturation,7,85,0.0479,0.0824,3.8309814318044916e-05,True
+ABA_axis,up,200,GO:BP,GO:0009631,cold acclimation,6,55,0.0411,0.1091,3.987292614158566e-05,True
+ABA_axis,up,200,GO:BP,GO:0048731,system development,33,2117,0.226,0.0156,6.107606436213198e-05,True
+ABA_axis,up,200,KEGG,KEGG:00073,"Cutin, suberine and wax biosynthesis",5,37,0.1613,0.1351,6.348690672703232e-05,True
+ABA_axis,up,200,GO:BP,GO:0009845,seed germination,9,178,0.0616,0.0506,6.59232229305685e-05,True
+ABA_axis,up,200,GO:BP,GO:0010345,suberin biosynthetic process,4,16,0.0274,0.25,6.59232229305685e-05,True
+ABA_axis,up,200,GO:BP,GO:0032501,multicellular organismal process,40,2966,0.274,0.0135,0.0001370054763382433,True
+ABA_axis,up,200,GO:BP,GO:0032502,developmental process,42,3256,0.2877,0.0129,0.00021926479347340248,True
+ABA_axis,up,200,GO:BP,GO:0090351,seedling development,9,211,0.0616,0.0427,0.00022800327661228747,True
+ABA_axis,up,200,GO:BP,GO:0009791,post-embryonic development,27,1667,0.1849,0.0162,0.00024033004053842472,True
+ABA_axis,up,200,GO:BP,GO:0048856,anatomical structure development,41,3166,0.2808,0.013,0.00024033004053842472,True
+ABA_axis,up,200,GO:BP,GO:0061458,reproductive system development,23,1315,0.1575,0.0175,0.0003228302208523891,True
+ABA_axis,up,200,GO:BP,GO:0048608,reproductive structure development,23,1313,0.1575,0.0175,0.0003228302208523891,True
+ABA_axis,up,200,GO:BP,GO:0050826,response to freezing,4,25,0.0274,0.16,0.00034014484918013226,True
+ABA_axis,up,200,GO:BP,GO:0006352,DNA-templated transcription initiation,6,85,0.0411,0.0706,0.0003450181488548537,True
+ABA_axis,up,200,GO:BP,GO:0010344,seed oilbody biogenesis,3,10,0.0205,0.3,0.0005049184153913429,True
+ABA_axis,up,200,GO:BP,GO:0003006,developmental process involved in reproduction,24,1575,0.1644,0.0152,0.0016765546894097739,True
+ABA_axis,up,200,GO:BP,GO:1902679,negative regulation of RNA biosynthetic process,8,224,0.0548,0.0357,0.001839781100146068,True
+ABA_axis,up,200,GO:BP,GO:0045892,negative regulation of DNA-templated transcription,8,224,0.0548,0.0357,0.001839781100146068,True
+ABA_axis,up,200,GO:BP,GO:0051253,negative regulation of RNA metabolic process,8,233,0.0548,0.0343,0.0023526418998856594,True
+ABA_axis,up,200,GO:BP,GO:0009651,response to salt stress,11,446,0.0753,0.0247,0.002650821049001837,True
+ABA_axis,up,200,GO:BP,GO:0021700,developmental maturation,8,238,0.0548,0.0336,0.002650821049001837,True
+ABA_axis,up,200,GO:BP,GO:0048316,seed development,13,624,0.089,0.0208,0.0035984454567611268,True
+ABA_axis,up,200,GO:BP,GO:0045934,negative regulation of nucleobase-containing compound metabolic process,8,253,0.0548,0.0316,0.0037503656217371772,True
+ABA_axis,up,200,GO:BP,GO:0010162,seed dormancy process,4,50,0.0274,0.08,0.004081876999403815,True
+ABA_axis,up,200,GO:BP,GO:0022611,dormancy process,4,50,0.0274,0.08,0.004081876999403815,True
+ABA_axis,up,200,GO:BP,GO:0010029,regulation of seed germination,5,91,0.0342,0.0549,0.004189740549090535,True
+ABA_axis,up,200,GO:BP,GO:0048366,leaf development,10,407,0.0685,0.0246,0.004690982597612313,True
+ABA_axis,up,200,GO:BP,GO:0048367,shoot system development,17,1012,0.1164,0.0168,0.004703691618367903,True
+ABA_axis,up,200,GO:BP,GO:0048609,multicellular organismal reproductive process,7,206,0.0479,0.034,0.0050771948647003115,True
+ABA_axis,up,200,GO:BP,GO:0048827,phyllome development,12,573,0.0822,0.0209,0.0050771948647003115,True
+ABA_axis,up,200,GO:BP,GO:0010154,fruit development,13,664,0.089,0.0196,0.005402180452630233,True
+ABA_axis,up,200,GO:BP,GO:1900140,regulation of seedling development,5,99,0.0342,0.0505,0.005501814652167806,True
+ABA_axis,up,200,GO:BP,GO:0022414,reproductive process,24,1768,0.1644,0.0136,0.006421872325508412,True
+ABA_axis,up,200,GO:BP,GO:0009698,phenylpropanoid metabolic process,6,164,0.0411,0.0366,0.008211210513579833,True
+ABA_axis,up,200,GO:BP,GO:0031407,oxylipin metabolic process,3,32,0.0205,0.0938,0.012281782443478412,True
+ABA_axis,up,200,KEGG,KEGG:04016,MAPK signaling pathway - plant,5,140,0.1613,0.0357,0.0198785517824446,True
+ABA_axis,up,200,GO:BP,GO:0034389,lipid droplet organization,2,11,0.0137,0.1818,0.022199902158953125,True
+ABA_axis,up,200,GO:BP,GO:0019748,secondary metabolic process,7,271,0.0479,0.0258,0.022199902158953125,True
+ABA_axis,up,200,GO:BP,GO:0099402,plant organ development,17,1189,0.1164,0.0143,0.022728347380390423,True
+ABA_axis,up,200,GO:BP,GO:0046341,CDP-diacylglycerol metabolic process,2,17,0.0137,0.1176,0.04936258809304541,True
+ABA_axis,up,200,GO:BP,GO:1901701,cellular response to oxygen-containing compound,12,772,0.0822,0.0155,0.04936258809304541,True
+ABA_axis,up,200,GO:BP,GO:0016024,CDP-diacylglycerol biosynthetic process,2,17,0.0137,0.1176,0.04936258809304541,True
+ABA_axis,up,200,GO:BP,GO:0006560,proline metabolic process,2,17,0.0137,0.1176,0.04936258809304541,True
+ABA_axis,down,200,KEGG,KEGG:04016,MAPK signaling pathway - plant,8,140,0.1667,0.0571,0.000569715279514052,True
+ABA_axis,down,200,KEGG,KEGG:00940,Phenylpropanoid biosynthesis,8,128,0.1667,0.0625,0.000569715279514052,True
+ABA_axis,down,200,GO:BP,GO:0042744,hydrogen peroxide catabolic process,7,92,0.0507,0.0761,0.0010948585777387741,True
+ABA_axis,down,200,GO:BP,GO:1990748,cellular detoxification,8,172,0.058,0.0465,0.001344906291813875,True
+ABA_axis,down,200,GO:BP,GO:0098869,cellular oxidant detoxification,8,161,0.058,0.0497,0.001344906291813875,True
+ABA_axis,down,200,GO:BP,GO:0097237,cellular response to toxic substance,8,173,0.058,0.0462,0.001344906291813875,True
+ABA_axis,down,200,GO:BP,GO:0070542,response to fatty acid,9,235,0.0652,0.0383,0.001344906291813875,True
+ABA_axis,down,200,GO:BP,GO:0042743,hydrogen peroxide metabolic process,7,113,0.0507,0.0619,0.001344906291813875,True
+ABA_axis,down,200,GO:BP,GO:0006979,response to oxidative stress,12,426,0.087,0.0282,0.001344906291813875,True
+ABA_axis,down,200,GO:BP,GO:0009753,response to jasmonic acid,9,231,0.0652,0.039,0.001344906291813875,True
+ABA_axis,down,200,GO:BP,GO:0072593,reactive oxygen species metabolic process,8,187,0.058,0.0428,0.0016057041003633822,True
+ABA_axis,down,200,GO:BP,GO:0042221,response to chemical,36,2940,0.2609,0.0122,0.0029344307006890285,True
+ABA_axis,down,200,GO:BP,GO:0098754,detoxification,9,275,0.0652,0.0327,0.0033330166752600283,True
+ABA_axis,down,200,GO:BP,GO:0009636,response to toxic substance,9,316,0.0652,0.0285,0.00874456802376508,True
+ABA_axis,down,200,GO:BP,GO:0009620,response to fungus,13,664,0.0942,0.0196,0.013205048790285853,True
+ABA_axis,down,200,GO:BP,GO:0009607,response to biotic stimulus,21,1488,0.1522,0.0141,0.01694178015638314,True
+ABA_axis,down,200,GO:BP,GO:0030091,protein repair,3,24,0.0217,0.125,0.017360832735653912,True
+ABA_axis,down,200,GO:BP,GO:0009664,plant-type cell wall organization,6,160,0.0435,0.0375,0.019417798193007835,True
+ABA_axis,down,200,GO:BP,GO:0070887,cellular response to chemical stimulus,22,1669,0.1594,0.0132,0.025268895871197215,True
+ABA_axis,down,200,GO:BP,GO:0043207,response to external biotic stimulus,20,1461,0.1449,0.0137,0.025379569969414036,True
+ABA_axis,down,200,GO:BP,GO:0051707,response to other organism,20,1461,0.1449,0.0137,0.025379569969414036,True
+ABA_axis,down,200,GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,20,1477,0.1449,0.0135,0.02756375801299063,True
+ABA_axis,down,200,GO:BP,GO:0050896,response to stimulus,54,6001,0.3913,0.009,0.04615329049501282,True
+ABA_axis,down,200,GO:BP,GO:0071669,plant-type cell wall organization or biogenesis,7,273,0.0507,0.0256,0.04615329049501282,True
+Fe_axis,up,200,GO:BP,GO:1990641,response to iron ion starvation,6,14,0.0385,0.4286,2.294980644701058e-07,True
+Fe_axis,up,200,GO:BP,GO:0034758,positive regulation of iron ion transport,3,3,0.0192,1.0,0.00012014246966134659,True
+Fe_axis,up,200,GO:BP,GO:0042594,response to starvation,10,182,0.0641,0.0549,0.00016926370421992273,True
+Fe_axis,up,200,GO:BP,GO:0031667,response to nutrient levels,10,230,0.0641,0.0435,0.0010400240609189306,True
+Fe_axis,up,200,GO:BP,GO:0010106,cellular response to iron ion starvation,3,7,0.0192,0.4286,0.0016470691070212256,True
+Fe_axis,up,200,GO:BP,GO:0034756,regulation of iron ion transport,3,8,0.0192,0.375,0.0021846112570533074,True
+Fe_axis,up,200,GO:BP,GO:0043270,positive regulation of monoatomic ion transport,3,9,0.0192,0.3333,0.0027941065822683184,True
+Fe_axis,up,200,GO:BP,GO:1990532,stress response to nickel ion,2,2,0.0128,1.0,0.0034671072924185842,True
+Fe_axis,up,200,GO:BP,GO:0006826,iron ion transport,5,56,0.0321,0.0893,0.0034671072924185842,True
+Fe_axis,up,200,GO:BP,GO:0006879,intracellular iron ion homeostasis,4,29,0.0256,0.1379,0.0034671072924185842,True
+Fe_axis,up,200,GO:BP,GO:0051050,positive regulation of transport,3,17,0.0192,0.1765,0.01380380295340512,True
+Fe_axis,up,200,GO:BP,GO:0030003,intracellular monoatomic cation homeostasis,5,82,0.0321,0.061,0.0170103217994229,True
+Fe_axis,up,200,GO:BP,GO:0019685,"photosynthesis, dark reaction",3,21,0.0192,0.1429,0.01938968927457291,True
+Fe_axis,up,200,GO:BP,GO:0019253,reductive pentose-phosphate cycle,3,21,0.0192,0.1429,0.01938968927457291,True
+Fe_axis,up,200,GO:BP,GO:0010959,regulation of metal ion transport,3,21,0.0192,0.1429,0.01938968927457291,True
+Fe_axis,up,200,GO:BP,GO:0006873,intracellular monoatomic ion homeostasis,5,90,0.0321,0.0556,0.019634137149499242,True
+Fe_axis,up,200,GO:BP,GO:0000041,transition metal ion transport,5,101,0.0321,0.0495,0.0312852113549442,True
+Fe_axis,up,200,GO:BP,GO:0015977,carbon fixation,3,27,0.0192,0.1111,0.034441168055058466,True
+Fe_axis,up,200,KEGG,KEGG:00710,Carbon fixation in photosynthetic organisms,4,68,0.1212,0.0588,0.035254784667854575,True
+Fe_axis,up,200,KEGG,KEGG:01110,Biosynthesis of secondary metabolites,16,1283,0.4848,0.0125,0.04677053267540589,True
+Fe_axis,up,200,GO:BP,GO:0000289,nuclear-transcribed mRNA poly(A) tail shortening,2,8,0.0128,0.25,0.04710478279748187,True
+Fe_axis,up,200,GO:BP,GO:0030001,metal ion transport,8,299,0.0513,0.0268,0.04710478279748187,True
+Fe_axis,down,200,N/A,N/A,No significant terms at FDR<0.05,,,,,,
+Auxin_axis,up,200,GO:BP,GO:0042221,response to chemical,76,2940,0.5101,0.0259,2.593852585219123e-25,True
+Auxin_axis,up,200,GO:BP,GO:0071456,cellular response to hypoxia,25,239,0.1678,0.1046,2.561971000834581e-20,True
+Auxin_axis,up,200,GO:BP,GO:0071453,cellular response to oxygen levels,25,241,0.1678,0.1037,2.561971000834581e-20,True
+Auxin_axis,up,200,GO:BP,GO:0036294,cellular response to decreased oxygen levels,25,241,0.1678,0.1037,2.561971000834581e-20,True
+Auxin_axis,up,200,GO:BP,GO:0001666,response to hypoxia,25,266,0.1678,0.094,2.387113601474109e-19,True
+Auxin_axis,up,200,GO:BP,GO:0070482,response to oxygen levels,25,271,0.1678,0.0923,2.7015078863404643e-19,True
+Auxin_axis,up,200,GO:BP,GO:0036293,response to decreased oxygen levels,25,270,0.1678,0.0926,2.7015078863404643e-19,True
+Auxin_axis,up,200,GO:BP,GO:0070887,cellular response to chemical stimulus,49,1669,0.3289,0.0294,2.5004741815874822e-17,True
+Auxin_axis,up,200,GO:BP,GO:0050896,response to stimulus,91,6001,0.6107,0.0152,4.923700729148214e-16,True
+Auxin_axis,up,200,GO:BP,GO:0009725,response to hormone,41,1635,0.2752,0.0251,7.159595677702085e-12,True
+Auxin_axis,up,200,GO:BP,GO:0009719,response to endogenous stimulus,41,1636,0.2752,0.0251,7.159595677702085e-12,True
+Auxin_axis,up,200,GO:BP,GO:0009733,response to auxin,22,448,0.1477,0.0491,2.3971323959933682e-11,True
+Auxin_axis,up,200,GO:BP,GO:0009628,response to abiotic stimulus,45,2131,0.302,0.0211,1.1404789978637579e-10,True
+Auxin_axis,up,200,GO:BP,GO:0051716,cellular response to stimulus,52,2897,0.349,0.0179,5.717949203267679e-10,True
+Auxin_axis,up,200,KEGG,KEGG:04075,Plant hormone signal transduction,15,291,0.4167,0.0515,3.5788117860554688e-09,True
+Auxin_axis,up,200,GO:BP,GO:0033554,cellular response to stress,28,1085,0.1879,0.0258,4.4452720747166834e-08,True
+Auxin_axis,up,200,GO:BP,GO:0006950,response to stress,56,3733,0.3758,0.015,6.512478340283525e-08,True
+Auxin_axis,up,200,GO:BP,GO:0009611,response to wounding,13,243,0.0872,0.0535,4.948380950892179e-07,True
+Auxin_axis,up,200,GO:BP,GO:0009636,response to toxic substance,13,316,0.0872,0.0411,1.0050809151389013e-05,True
+Auxin_axis,up,200,GO:BP,GO:0009734,auxin-activated signaling pathway,11,261,0.0738,0.0421,6.501397238843816e-05,True
+Auxin_axis,up,200,GO:BP,GO:2001141,regulation of RNA biosynthetic process,34,2161,0.2282,0.0157,8.190399732073293e-05,True
+Auxin_axis,up,200,GO:BP,GO:0006355,regulation of DNA-templated transcription,34,2161,0.2282,0.0157,8.190399732073293e-05,True
+Auxin_axis,up,200,GO:BP,GO:0032870,cellular response to hormone stimulus,22,1061,0.1477,0.0207,9.102977125363275e-05,True
+Auxin_axis,up,200,GO:BP,GO:0071495,cellular response to endogenous stimulus,22,1062,0.1477,0.0207,9.102977125363275e-05,True
+Auxin_axis,up,200,GO:BP,GO:0071365,cellular response to auxin stimulus,11,278,0.0738,0.0396,9.106216406489482e-05,True
+Auxin_axis,up,200,GO:BP,GO:0009404,toxin metabolic process,6,60,0.0403,0.1,9.106216406489482e-05,True
+Auxin_axis,up,200,GO:BP,GO:0009755,hormone-mediated signaling pathway,21,999,0.1409,0.021,0.00011048744535717025,True
+Auxin_axis,up,200,GO:BP,GO:0051252,regulation of RNA metabolic process,34,2232,0.2282,0.0152,0.00012982157030447158,True
+Auxin_axis,up,200,GO:BP,GO:0050789,regulation of biological process,59,5102,0.396,0.0116,0.00014797447725666904,True
+Auxin_axis,up,200,GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,34,2305,0.2282,0.0148,0.00024206476378646683,True
+Auxin_axis,up,200,GO:BP,GO:0065007,biological regulation,60,5330,0.4027,0.0113,0.00026458197134196515,True
+Auxin_axis,up,200,GO:BP,GO:0006749,glutathione metabolic process,5,45,0.0336,0.1111,0.0002964498014871249,True
+Auxin_axis,up,200,GO:BP,GO:0006351,DNA-templated transcription,34,2345,0.2282,0.0145,0.00031074240506208536,True
+Auxin_axis,up,200,GO:BP,GO:0009407,toxin catabolic process,5,46,0.0336,0.1087,0.00031074240506208536,True
+Auxin_axis,up,200,GO:BP,GO:0099402,plant organ development,22,1189,0.1477,0.0185,0.00036168282550364515,True
+Auxin_axis,up,200,GO:BP,GO:1901700,response to oxygen-containing compound,27,1659,0.1812,0.0163,0.00036168282550364515,True
+Auxin_axis,up,200,GO:BP,GO:0048364,root development,15,616,0.1007,0.0244,0.000391698450305285,True
+Auxin_axis,up,200,GO:BP,GO:0022622,root system development,15,617,0.1007,0.0243,0.000391698450305285,True
+Auxin_axis,up,200,GO:BP,GO:0009605,response to external stimulus,27,1684,0.1812,0.016,0.0004339874572270167,True
+Auxin_axis,up,200,GO:BP,GO:0048731,system development,31,2117,0.2081,0.0146,0.000560209450556461,True
+Auxin_axis,up,200,GO:BP,GO:0046256,"2,4,6-trinitrotoluene catabolic process",2,2,0.0134,1.0,0.0006744795364372378,True
+Auxin_axis,up,200,GO:BP,GO:0046263,nitrotoluene catabolic process,2,2,0.0134,1.0,0.0006744795364372378,True
+Auxin_axis,up,200,GO:BP,GO:0019326,nitrotoluene metabolic process,2,2,0.0134,1.0,0.0006744795364372378,True
+Auxin_axis,up,200,GO:BP,GO:0072491,toluene-containing compound catabolic process,2,2,0.0134,1.0,0.0006744795364372378,True
+Auxin_axis,up,200,GO:BP,GO:0018973,trinitrotoluene metabolic process,2,2,0.0134,1.0,0.0006744795364372378,True
+Auxin_axis,up,200,GO:BP,GO:0018974,"2,4,6-trinitrotoluene metabolic process",2,2,0.0134,1.0,0.0006744795364372378,True
+Auxin_axis,up,200,GO:BP,GO:0072490,toluene-containing compound metabolic process,2,2,0.0134,1.0,0.0006744795364372378,True
+Auxin_axis,up,200,GO:BP,GO:0046260,trinitrotoluene catabolic process,2,2,0.0134,1.0,0.0006744795364372378,True
+Auxin_axis,up,200,GO:BP,GO:0010468,regulation of gene expression,36,2713,0.2416,0.0133,0.0007536228696949191,True
+Auxin_axis,up,200,GO:BP,GO:0010556,regulation of macromolecule biosynthetic process,36,2745,0.2416,0.0131,0.0009424957710383087,True
+Auxin_axis,up,200,GO:BP,GO:0009889,regulation of biosynthetic process,37,2859,0.2483,0.0129,0.0009424957710383087,True
+Auxin_axis,up,200,GO:BP,GO:0080090,regulation of primary metabolic process,35,2644,0.2349,0.0132,0.0009756833568674256,True
+Auxin_axis,up,200,GO:BP,GO:0050794,regulation of cellular process,52,4693,0.349,0.0111,0.001316305444063895,True
+Auxin_axis,up,200,GO:BP,GO:0098754,detoxification,9,275,0.0604,0.0327,0.0014854601509024996,True
+Auxin_axis,up,200,GO:BP,GO:0023052,signaling,26,1793,0.1745,0.0145,0.002304099609100999,True
+Auxin_axis,up,200,GO:BP,GO:0033993,response to lipid,18,1022,0.1208,0.0176,0.0025686699050047113,True
+Auxin_axis,up,200,GO:BP,GO:0060255,regulation of macromolecule metabolic process,36,2903,0.2416,0.0124,0.00257701341917307,True
+Auxin_axis,up,200,GO:BP,GO:0007154,cell communication,26,1817,0.1745,0.0143,0.002693329422137144,True
+Auxin_axis,up,200,GO:BP,GO:0031099,regeneration,3,18,0.0201,0.1667,0.0027745586815563048,True
+Auxin_axis,up,200,GO:BP,GO:0009751,response to salicylic acid,7,185,0.047,0.0378,0.003260342574291103,True
+Auxin_axis,up,200,GO:BP,GO:0051707,response to other organism,22,1461,0.1477,0.0151,0.004078242922837296,True
+Auxin_axis,up,200,GO:BP,GO:0043207,response to external biotic stimulus,22,1461,0.1477,0.0151,0.004078242922837296,True
+Auxin_axis,up,200,GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,22,1477,0.1477,0.0149,0.004655880737122826,True
+Auxin_axis,up,200,GO:BP,GO:0006575,modified amino acid metabolic process,5,94,0.0336,0.0532,0.004988286031655039,True
+Auxin_axis,up,200,GO:BP,GO:0009607,response to biotic stimulus,22,1488,0.1477,0.0148,0.004988286031655039,True
+Auxin_axis,up,200,GO:BP,GO:0019222,regulation of metabolic process,37,3164,0.2483,0.0117,0.005666368221912769,True
+Auxin_axis,up,200,KEGG,KEGG:00480,Glutathione metabolism,5,103,0.1389,0.0485,0.006166666572434144,True
+Auxin_axis,up,200,GO:BP,GO:0009642,response to light intensity,6,154,0.0403,0.039,0.0068584817019954735,True
+Auxin_axis,up,200,GO:BP,GO:0032501,multicellular organismal process,35,2966,0.2349,0.0118,0.006873478132549417,True
+Auxin_axis,up,200,GO:BP,GO:1990110,callus formation,3,26,0.0201,0.1154,0.007245958122911815,True
+Auxin_axis,up,200,GO:BP,GO:0007165,signal transduction,24,1750,0.1611,0.0137,0.0073451364398922836,True
+Auxin_axis,up,200,GO:BP,GO:0042060,wound healing,3,27,0.0201,0.1111,0.007879518481868762,True
+Auxin_axis,up,200,GO:BP,GO:0045892,negative regulation of DNA-templated transcription,7,224,0.047,0.0312,0.008355301757428957,True
+Auxin_axis,up,200,GO:BP,GO:1902679,negative regulation of RNA biosynthetic process,7,224,0.047,0.0312,0.008355301757428957,True
+Auxin_axis,up,200,GO:BP,GO:0009737,response to abscisic acid,12,604,0.0805,0.0199,0.008371036173601095,True
+Auxin_axis,up,200,GO:BP,GO:0032502,developmental process,37,3256,0.2483,0.0114,0.008583058193119636,True
+Auxin_axis,up,200,GO:BP,GO:0097305,response to alcohol,12,613,0.0805,0.0196,0.009252318171039919,True
+Auxin_axis,up,200,GO:BP,GO:0051253,negative regulation of RNA metabolic process,7,233,0.047,0.03,0.00995238693054614,True
+Auxin_axis,up,200,GO:BP,GO:0007275,multicellular organism development,32,2715,0.2148,0.0118,0.01095256821189431,True
+Auxin_axis,up,200,GO:BP,GO:0042218,1-aminocyclopropane-1-carboxylate biosynthetic process,2,9,0.0134,0.2222,0.014179993814221532,True
+Auxin_axis,up,200,GO:BP,GO:0045934,negative regulation of nucleobase-containing compound metabolic process,7,253,0.047,0.0277,0.015345405363346788,True
+Auxin_axis,up,200,GO:BP,GO:0018871,1-aminocyclopropane-1-carboxylate metabolic process,2,10,0.0134,0.2,0.01699249405871894,True
+Auxin_axis,up,200,GO:BP,GO:0009835,fruit ripening,2,10,0.0134,0.2,0.01699249405871894,True
+Auxin_axis,up,200,GO:BP,GO:0048856,anatomical structure development,35,3166,0.2349,0.0111,0.017830651076659956,True
+Auxin_axis,up,200,GO:BP,GO:0009416,response to light stimulus,13,764,0.0872,0.017,0.018173790059583625,True
+Auxin_axis,up,200,GO:BP,GO:0019748,secondary metabolic process,7,271,0.047,0.0258,0.02123221994765473,True
+Auxin_axis,up,200,GO:BP,GO:0009314,response to radiation,13,781,0.0872,0.0166,0.021460144003162505,True
+Auxin_axis,up,200,GO:BP,GO:0048527,lateral root development,5,145,0.0336,0.0345,0.025325906916142588,True
+Auxin_axis,up,200,GO:BP,GO:0010262,somatic embryogenesis,2,13,0.0134,0.1538,0.027057998484945906,True
+Auxin_axis,up,200,GO:BP,GO:0032774,RNA biosynthetic process,36,3395,0.2416,0.0106,0.02887060330461104,True
+Auxin_axis,up,200,GO:BP,GO:0170043,non-proteinogenic amino acid biosynthetic process,2,14,0.0134,0.1429,0.030721141108508637,True
+Auxin_axis,up,200,GO:BP,GO:0043603,amide metabolic process,5,156,0.0336,0.0321,0.03304027192132336,True
+Auxin_axis,up,200,GO:BP,GO:0048528,post-embryonic root development,5,158,0.0336,0.0316,0.03448225023741039,True
+Auxin_axis,up,200,GO:BP,GO:0009753,response to jasmonic acid,6,231,0.0403,0.026,0.037896920018317834,True
+Auxin_axis,up,200,GO:BP,GO:0010200,response to chitin,2,16,0.0134,0.125,0.038425422954623076,True
+Auxin_axis,up,200,GO:BP,GO:0010150,leaf senescence,5,164,0.0336,0.0305,0.038624966251665505,True
+Auxin_axis,up,200,GO:BP,GO:0141187,nucleic acid biosynthetic process,36,3470,0.2416,0.0104,0.038624966251665505,True
+Auxin_axis,up,200,GO:BP,GO:0070542,response to fatty acid,6,235,0.0403,0.0255,0.039428665867253,True
+Auxin_axis,up,200,GO:BP,GO:0090693,plant organ senescence,5,171,0.0336,0.0292,0.044864734375085674,True
+Auxin_axis,up,200,GO:BP,GO:0006790,sulfur compound metabolic process,7,320,0.047,0.0219,0.044864734375085674,True
+Auxin_axis,up,200,GO:BP,GO:1900057,positive regulation of leaf senescence,2,18,0.0134,0.1111,0.04561578659055824,True
+Auxin_axis,down,200,GO:BP,GO:0033397,zeatin metabolic process,2,2,0.0194,1.0,0.0027375101340028794,True
+Auxin_axis,down,200,GO:BP,GO:0033398,zeatin biosynthetic process,2,2,0.0194,1.0,0.0027375101340028794,True
+Auxin_axis,down,200,GO:BP,GO:0033400,trans-zeatin metabolic process,2,2,0.0194,1.0,0.0027375101340028794,True
+Auxin_axis,down,200,GO:BP,GO:0033466,trans-zeatin biosynthetic process,2,2,0.0194,1.0,0.0027375101340028794,True
+Auxin_axis,down,200,GO:BP,GO:1902025,nitrate import,4,39,0.0388,0.1026,0.003335936952598893,True
+Auxin_axis,down,200,GO:BP,GO:0006995,cellular response to nitrogen starvation,3,29,0.0291,0.1034,0.02108202142178727,True
+Auxin_axis,down,200,GO:BP,GO:0009308,amine metabolic process,5,123,0.0485,0.0407,0.02108202142178727,True
+Auxin_axis,down,200,GO:BP,GO:0009691,cytokinin biosynthetic process,3,28,0.0291,0.1071,0.02108202142178727,True
+Auxin_axis,down,200,KEGG,KEGG:00908,Zeatin biosynthesis,2,32,0.125,0.0625,0.04020474648027878,True
+Auxin_axis,down,200,KEGG,KEGG:04626,Plant-pathogen interaction,4,204,0.25,0.0196,0.04020474648027878,True
+Auxin_axis,down,200,GO:BP,GO:0009690,cytokinin metabolic process,3,39,0.0291,0.0769,0.040769714192813805,True
+Auxin_axis,down,200,GO:BP,GO:0043562,cellular response to nitrogen levels,3,38,0.0291,0.0789,0.040769714192813805,True
+Auxin_axis,down,200,GO:BP,GO:0060359,response to ammonium ion,2,10,0.0194,0.2,0.043708038949600125,True
+CK_axis,up,200,GO:BP,GO:0009736,cytokinin-activated signaling pathway,6,90,0.0429,0.0667,0.006969039079850909,True
+CK_axis,up,200,GO:BP,GO:0071368,cellular response to cytokinin stimulus,6,94,0.0429,0.0638,0.006969039079850909,True
+CK_axis,up,200,GO:BP,GO:0009735,response to cytokinin,6,132,0.0429,0.0455,0.030648408681781092,True
+CK_axis,down,200,N/A,N/A,No significant terms at FDR<0.05,,,,,,
+ET_axis,up,200,N/A,N/A,No significant terms at FDR<0.05,,,,,,
+ET_axis,down,200,N/A,N/A,No significant terms at FDR<0.05,,,,,,
+K_axis,up,200,KEGG,KEGG:04075,Plant hormone signal transduction,6,291,0.3,0.0206,0.010477732703226732,True
+K_axis,down,200,N/A,N/A,No significant terms at FDR<0.05,,,,,,
