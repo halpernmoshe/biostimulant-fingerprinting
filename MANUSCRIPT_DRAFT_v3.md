@@ -95,7 +95,7 @@ Axis signatures for all 10 axes were saved as comma-separated files in the direc
 
 Raw HTSeq count files were downloaded from NCBI GEO FTP. For datasets provided as raw integer counts (GSE297649, GSE138478, GSE139154, GSE87337), library-size normalization was applied before scoring: counts were converted to counts per million (CPM), and scores were computed on log2(CPM + 1) values. For datasets already provided in normalized form (GSE199501: CPM table; GSE298982: TMM-normalized counts), log2(normalized count + 1) values were used directly.
 
-Library-size normalization was an essential preprocessing step. In preliminary analyses using raw log2(count + 1) values, the amino acid treatment in GSE297649 appeared to shift the P-axis by +2.4% of the calibration range. After CPM normalization this effect collapsed to +0.07%, indicating the raw score was a library-size artifact caused by one replicate (WTaa_1) having a 1.45-fold larger library than the group median. CPM normalization eliminates this artifact by placing all samples on a common per-million-reads scale before dot-product computation.
+Library-size normalization was applied prior to scoring because differences in total read depth between treated and control samples can generate spurious axis shifts independently of any biological treatment effect. CPM normalization places all samples on a common per-million-reads scale before the dot-product, removing this source of artifact (see Section 2.4 for a specific example).
 
 The axis score for sample *i* on axis *j* was computed as:
 
