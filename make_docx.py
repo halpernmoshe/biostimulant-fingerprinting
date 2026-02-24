@@ -25,6 +25,7 @@ FIG_FILES = {
     'S5': 'discriminant_scatter_paper.png',
     'S6': 'classification_dendrogram.png',
     'S7': 'Fig_seaweed_prediction_heatmap.png',
+    'S8': 'amino_acid_gene_level_reproducibility.png',
 }
 
 # ---------- read & trim ----------
