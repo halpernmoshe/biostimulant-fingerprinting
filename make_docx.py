@@ -5,8 +5,8 @@ from docx import Document
 from docx.shared import Pt, Inches, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
-MANUSCRIPT = Path('C:/Users/moshe/Dropbox/ISF 2025/agent_coordination/MANUSCRIPT_DRAFT_v3.md')
-OUTPUT     = Path('C:/Users/moshe/Dropbox/ISF 2025/agent_coordination/MANUSCRIPT_DRAFT_v3.docx')
+MANUSCRIPT = Path('C:/Users/moshe/Dropbox/ISF 2025/agent_coordination/MANUSCRIPT_DRAFT_v4.md')
+OUTPUT     = Path('C:/Users/moshe/Dropbox/ISF 2025/agent_coordination/MANUSCRIPT_DRAFT_v4.docx')
 FIGS_DIR   = Path('C:/Users/moshe/Dropbox/ISF 2025/state_space_figures')
 
 FIG_FILES = {
