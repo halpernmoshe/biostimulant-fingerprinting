@@ -1,0 +1,32 @@
+Axis,Reference experiment,Gene name,AGI code,logFC,Expected direction,Status,Biological rationale
+P-axis,"P-axis (GSE90061, Pi-starved vs Pi-sufficient roots)",PHT1;4,AT2G38940,+3.065,+,PASS,High-affinity Pi transporter; PHR1 direct target; strongly induced by Pi starvation
+P-axis,"P-axis (GSE90061, Pi-starved vs Pi-sufficient roots)",SPX1,AT5G20150,+6.216,+,PASS,SYG1/Pho81/XPR1 domain; PHR1 target; primary Pi starvation signaling gene
+P-axis,"P-axis (GSE90061, Pi-starved vs Pi-sufficient roots)",AT4/IPS1,AT1G17840,+2.477,+,PASS,Long noncoding RNA; PHR1 target; canonical Pi starvation marker
+P-axis,"P-axis (GSE90061, Pi-starved vs Pi-sufficient roots)",PHO1,AT5G43350,+1.489,+,PASS,Pi export to xylem; induced by Pi starvation in roots
+P-axis,"P-axis (GSE90061, Pi-starved vs Pi-sufficient roots)",NRT2.1,AT2G03450,-0.035,-,weak,High-affinity nitrate transporter; repressed by NIGT1 under Pi starvation via PHR1-NIGT1 cascade
+N-axis,"N-axis (GSE97500, high N vs low N shoots, t=120 min)",NIA1,AT1G08090,+5.290,+,PASS,Nitrate reductase 1; strongly induced by nitrate supply; canonical high-N marker
+N-axis,"N-axis (GSE97500, high N vs low N shoots, t=120 min)",NRT2.1,AT2G03450,-0.512,-,PASS,"High-affinity nitrate transporter; induced by N starvation, repressed when N is abundant"
+N-axis,"N-axis (GSE97500, high N vs low N shoots, t=120 min)",PHT1;4,AT2G38940,-0.383,-,weak,Pi starvation gene; suppressed under high N due to N-P signaling crosstalk
+N-axis,"N-axis (GSE97500, high N vs low N shoots, t=120 min)",NRT1.1,AT1G62560,-0.447,-,weak,Dual-affinity nitrate transporter; mildly suppressed at 120 min possibly reflecting N-feedback; regulation is complex
+JA-axis,"JA-axis (GSE90077, MeJA 50 µM 8h vs mock)",JAZ1,AT1G19180,+3.072,+,PASS,JAZ repressor; COI1-JAZ co-receptor substrate; primary JA-responsive gene
+JA-axis,"JA-axis (GSE90077, MeJA 50 µM 8h vs mock)",JAZ9,AT1G70700,+3.193,+,PASS,JAZ family member; strongly JA-induced
+JA-axis,"JA-axis (GSE90077, MeJA 50 µM 8h vs mock)",VSP2,AT5G42650,+1.791,+,PASS,Vegetative storage protein 2; canonical JA/wound response marker
+JA-axis,"JA-axis (GSE90077, MeJA 50 µM 8h vs mock)",PR1,AT2G14610,+3.345,-,FLAG,SA/SAR marker; expected JA-SA antagonism should suppress PR1; note: MeJA at 8h shows some PR1 co-induction via crosstalk at this time point
+SA-axis,"SA-axis (GSE90077, BTH 8h vs mock)",PR1,AT2G14610,+10.063,+,PASS,Canonical SA/SAR marker; most widely used SA-response gene
+SA-axis,"SA-axis (GSE90077, BTH 8h vs mock)",PR2,AT3G57260,+3.378,+,PASS,"Beta-1,3-glucanase; SA-induced pathogenesis-related protein"
+SA-axis,"SA-axis (GSE90077, BTH 8h vs mock)",PR5,AT1G75040,+3.007,+,PASS,Thaumatin-like protein; SA-induced PR gene
+SA-axis,"SA-axis (GSE90077, BTH 8h vs mock)",JAZ1,AT1G19180,+0.305,-,FLAG,JA-responsive; expected suppression by SA-JA antagonism; observed weak positive (+0.31) at 8h — antagonism develops more fully at later time points
+ABA-axis,"ABA-axis (GSE127910, ABA-treated seedlings vs solvent control)",RAB18,AT1G52690,+7.700,+,PASS,Dehydrin; canonical ABA-responsive gene; drought/cold/ABA marker
+ABA-axis,"ABA-axis (GSE127910, ABA-treated seedlings vs solvent control)",RD29A,AT3G17520,+6.045,+,PASS,Responsive to desiccation; ABA-induced stress gene
+ABA-axis,"ABA-axis (GSE127910, ABA-treated seedlings vs solvent control)",ABI5,AT5G59220,+6.775,+,PASS,ABA-insensitive 5; bZIP TF; key ABA signaling node
+ABA-axis,"ABA-axis (GSE127910, ABA-treated seedlings vs solvent control)",LTP1,AT1G01470,+2.822,+,PASS,Lipid transfer protein; ABA-regulated
+Fe-axis,"Fe-axis (GSE213557, Fe-deficient vs Fe-sufficient roots, 24h)",IRT1,AT1G01580,+3.022,+,PASS,Iron-regulated transporter 1; primary Fe uptake gene; strongly Fe-deficiency induced
+Fe-axis,"Fe-axis (GSE213557, Fe-deficient vs Fe-sufficient roots, 24h)",FRO2,AT1G23020,+1.945,+,PASS,Ferric reductase oxidase 2; reduces Fe3+ to Fe2+ for uptake; Fe-deficiency induced
+Fe-axis,"Fe-axis (GSE213557, Fe-deficient vs Fe-sufficient roots, 24h)",FIT1,AT4G19690,+2.617,+,PASS,FE-deficiency induced transcription factor 1; master regulator of Fe acquisition
+Fe-axis,"Fe-axis (GSE213557, Fe-deficient vs Fe-sufficient roots, 24h)",bHLH38,AT3G47640,+1.175,+,PASS,bHLH TF; forms heterodimer with FIT1; Fe-deficiency responsive
+CK-axis,"CK-axis (GSE149641, benzylaminopurine 1h vs control)",ARR5,AT3G48100,+3.269,+,PASS,Type-A response regulator; primary cytokinin response gene; induced within minutes
+CK-axis,"CK-axis (GSE149641, benzylaminopurine 1h vs control)",ARR7,AT1G19050,+3.300,+,PASS,Type-A ARR; cytokinin-induced within 15 min; canonical CK marker
+CK-axis,"CK-axis (GSE149641, benzylaminopurine 1h vs control)",ARR15,AT3G57040,+1.699,+,PASS,Type-A ARR; cytokinin-responsive
+Auxin-axis,"Auxin-axis (GSE104385, IAA 2h vs mock)",IAA1,AT4G14560,+3.173,+,PASS,Aux/IAA transcriptional repressor; rapidly auxin-induced (primary response)
+Auxin-axis,"Auxin-axis (GSE104385, IAA 2h vs mock)",IAA7,AT3G23050,+0.944,+,PASS,Aux/IAA; rapidly induced by auxin
+Auxin-axis,"Auxin-axis (GSE104385, IAA 2h vs mock)",GH3.3,AT4G32280,+3.482,+,PASS,GH3 family acyl amido synthetase; auxin-conjugating enzyme; auxin-induced
